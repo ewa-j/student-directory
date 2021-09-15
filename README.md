@@ -1,6 +1,6 @@
 # about the project
 
-Project created as a part of Makers Academy bootcamp. Goal is to practice using command line.
+Project created as a part of Makers Academy bootcamp. Goal is to practice command line, git and basic Ruby syntax.
 
 # student-directory
 
